@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I’m Aditya Singh<br><br>🎓 Computer Science student with strong problem-solving skills<br><br>💻 Skilled in full-stack web development (React, Next.js, Express, PostgreSQL, MongoDB, Prisma)<br><br>⚙️ Experienced in building secure, real-time, and scalable applications<br><br>📚 Actively learning DevOps, AWS, and high-level system design
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aduthekaddu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-05-si) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aduthekaddu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marvellousaditya@gmail.com) 
