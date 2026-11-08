@@ -1,0 +1,19 @@
+README.md
+  s_0146bdadd4a300::t_d648b381e7cc8e 1,3,5,7,9,11-15,17-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a673798df57a21b1d6b07d3b2a225099afff5b66",
+  "prompts": {},
+  "sessions": {
+    "s_0146bdadd4a300": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b4c1d98-86ff-4362-b268-d49877213682",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "aduthekaddu <138025602+aduthekaddu@users.noreply.github.com>"
+    }
+  }
+}
