@@ -1,21 +1,15 @@
-I'm Aditya Singh (kaddu), a developer in India. By day I work with Adobe Experience Manager (AEM). By night I build and run a fleet of AI coding agents: Claude Code, Codex, Grok, OpenCode, and Antigravity. My site is [aduthekaddu.in](https://aduthekaddu.in).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editor-dark.svg">
+  <img src="assets/editor-light.svg" alt="An editor opens notes for romper, orbit and between moves, and types one line in each. Below it, five coding agents report what they are doing." width="100%">
+</picture>
 
-## Building now
+**romper** &nbsp;a remote desktop in the browser, for you and your agents<br>
+**orbit** &nbsp;a self-hosted chat app for one person<br>
+**between moves** &nbsp;a private chess house for a small group who already know each other
 
-`orbit` is a self-hosted chat app like ChatGPT, for one person. It works with any OpenAI-compatible model and keeps every chat in a local SQLite file. The model can reply with cards, tables, and lists as well as text. It uses Next.js 16, better-auth, and Drizzle. It runs behind Cloudflare Tunnel and Cloudflare Access.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/year-dark.svg">
+  <img src="assets/year-light.svg" alt="Generative art from my last year on GitHub. One line per day, longer lines on busier days." width="100%">
+</picture>
 
-`kaddu-kit` is my skill kit for coding agents, built on Lauren Tan's [pstack](https://github.com/cursor/plugins/tree/main/pstack). Its skills make an agent prove that a change works before it calls the task done. The same skills work in Claude Code, Codex, and Grok.
-
-## Other projects
-
-- `romper` turns one Ubuntu machine into a desktop in the browser for you and your agents.
-- `waystation` is a self-hosted workspace for terminals, durable agent tasks, and apps.
-- `dejavu` is shared memory for coding agents. Claude Code, Cursor, and Codex read and write it through one MCP server, so a new session starts with what the last one learned.
-- `rollo` is a Chrome extension that records browser tabs on Linux and macOS.
-- `slopcheck` finds phrases that make text read as machine-written and scores the text from 0 to 100.
-
-The code for all seven projects is private.
-
-## Stack
-
-TypeScript, React, Next.js, Node.js, SQLite, Python, Docker, and Cloudflare.
+<sub>Aditya Singh &nbsp;·&nbsp; Noida, India &nbsp;·&nbsp; Adobe Experience Manager by day, coding agents by night &nbsp;·&nbsp; <a href="https://aduthekaddu.in">aduthekaddu.in</a></sub>
